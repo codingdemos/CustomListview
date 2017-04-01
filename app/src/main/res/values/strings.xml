@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">CustomListview</string>
+
+    <string-array name="countries">
+        <item>Australia</item>
+        <item>Brazil</item>
+        <item>China</item>
+        <item>France</item>
+        <item>Germany</item>
+        <item>India</item>
+        <item>Ireland</item>
+        <item>Italy</item>
+        <item>Mexico</item>
+        <item>Poland</item>
+        <item>Russia</item>
+        <item>Spain</item>
+        <item>US</item>
+    </string-array>
+
+    <string-array name="australia_states">
+        <item>New South Wales</item>
+        <item>Northern Territory</item>
+        <item>Queensland</item>
+        <item>South Australia</item>
+        <item>Tasmania</item>
+        <item>Victoria</item>
+        <item>Western Australia</item>
+    </string-array>
+
+    <string-array name="us_states">
+        <item>Alabama</item>
+        <item>Alaska</item>
+        <item>Arizona</item>
+        <item>Arkansas</item>
+        <item>California</item>
+    </string-array>
+</resources>
